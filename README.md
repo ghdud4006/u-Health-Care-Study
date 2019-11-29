@@ -1,7 +1,6 @@
 # u-Health-Study
 
 
-광운대학교 제 2회 산학협력 SW개발
 
 COM TEAM, MALID TEAM 스터디 내용
 
